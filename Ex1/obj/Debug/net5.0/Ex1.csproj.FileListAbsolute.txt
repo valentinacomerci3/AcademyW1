@@ -1,0 +1,16 @@
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.exe
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.deps.json
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.runtimeconfig.json
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.runtimeconfig.dev.json
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.dll
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\ref\Ex1.dll
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\bin\Debug\net5.0\Ex1.pdb
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.csprojAssemblyReference.cache
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.AssemblyInfo.cs
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.dll
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\ref\Ex1.dll
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.pdb
+C:\Users\valentina.comerci\source\repos\TestWeek1Academy\Ex1\obj\Debug\net5.0\Ex1.genruntimeconfig.cache
